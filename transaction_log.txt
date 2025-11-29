@@ -1,0 +1,5 @@
+[29/11/2025 20:21:10] Ozge - Deposit - 13000 $ 
+[29/11/2025 20:22:10] Emirhan - Deposit - 4600 $ 
+[29/11/2025 20:22:10] Ozge - Transfer to Emirhan - 4600 $ 
+[29/11/2025 20:22:27] Emirhan - Deposit - 45.65 $ 
+[29/11/2025 20:22:27] Ozge - Transfer to Emirhan - 45.65 $ 
